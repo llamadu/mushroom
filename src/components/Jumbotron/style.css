@@ -1,0 +1,15 @@
+.jumbotron {
+    background: linear-gradient(90deg, rgba(40,40,41,1) 30%, rgba(169,169,169,1) 80%, rgba(200,198,198,1) 100%);
+}
+.display-4 {
+    text-align: center;
+}
+h3 {
+    text-align: center;
+}
+
+@media screen and (max-width: 768px) {
+    .display-4 {
+        font-size: 36px
+    }
+} 
