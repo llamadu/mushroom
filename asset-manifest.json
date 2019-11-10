@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/mushroom/static/css/main.172dd09b.chunk.css",
+    "main.js": "/mushroom/static/js/main.885b84c8.chunk.js",
+    "main.js.map": "/mushroom/static/js/main.885b84c8.chunk.js.map",
+    "runtime-main.js": "/mushroom/static/js/runtime-main.c82f3080.js",
+    "runtime-main.js.map": "/mushroom/static/js/runtime-main.c82f3080.js.map",
+    "static/js/2.e0ea9233.chunk.js": "/mushroom/static/js/2.e0ea9233.chunk.js",
+    "static/js/2.e0ea9233.chunk.js.map": "/mushroom/static/js/2.e0ea9233.chunk.js.map",
+    "index.html": "/mushroom/index.html",
+    "precache-manifest.cb5785551405b0814ce4839a69068c4b.js": "/mushroom/precache-manifest.cb5785551405b0814ce4839a69068c4b.js",
+    "service-worker.js": "/mushroom/service-worker.js",
+    "static/css/main.172dd09b.chunk.css.map": "/mushroom/static/css/main.172dd09b.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c82f3080.js",
+    "static/js/2.e0ea9233.chunk.js",
+    "static/css/main.172dd09b.chunk.css",
+    "static/js/main.885b84c8.chunk.js"
+  ]
+}
